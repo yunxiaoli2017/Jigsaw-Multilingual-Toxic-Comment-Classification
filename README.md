@@ -31,12 +31,12 @@ integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ
       <td>93.78</td>
     </tr>
     <tr>
-      <th scope="row">1</th>
+      <th scope="row">2</th>
       <td>XLM-RoBERTa with balanced data</td>
       <td>93.36</td>
     </tr>
     <tr>
-      <th scope="row">1</th>
+      <th scope="row">3</th>
       <td>XLM-RoBERTa with unbalanced data</td>
       <td>87.10</td>
     </tr>
