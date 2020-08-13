@@ -27,13 +27,13 @@ integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>XLM-RoBERTa with cleaned and balanced data</td>
+      <td>XLM-RoBERTa with balanced data</td>
       <td>93.78</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>XLM-RoBERTa with balanced data</td>
-      <td>93.36</td>
+      <td>Distil-BERT</td>
+      <td>87.11</td>
     </tr>
     <tr>
       <th scope="row">3</th>
